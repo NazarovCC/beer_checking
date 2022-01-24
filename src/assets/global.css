@@ -1,0 +1,22 @@
+body {
+  /* background-color: #ece6d9; */
+  display: block;
+  background-color: #ece6d9;
+}
+@font-face {
+  font-family: HyliaSerif;
+  src: url('HyliaSerifBeta-Regular.otf') format('opentype');
+}
+h1,
+h2 {
+  font-family: HyliaSerif;
+  letter-spacing: 4px;
+  text-align: center;
+}
+.user {
+  font-family: HyliaSerif;
+  letter-spacing: 4px;
+}
+ul {
+  padding: 0px;
+}
